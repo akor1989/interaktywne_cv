@@ -11,6 +11,7 @@
  - Appium
  - Selenium Webdriver
  - Robot Framework
+ - Docker
  
  
  * Zapraszam do kontaktu!
