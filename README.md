@@ -16,6 +16,6 @@
  
  ## OTO FRAGMENT MOJEGO SKRYPTU TESTOWEGO W PYTHON
  ```python
-s = "Python syntax highlighting"
+s = "Hello World!"
 print s
 ```
